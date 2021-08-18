@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'HomePage.dart';
 
+//not complete code for swiping either left or right
 void main() {
   runApp(MyApp());
 }
